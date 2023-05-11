@@ -22,5 +22,5 @@ features:
     details:
   - title: 中间件相关
     details:
-footer: Attribution-ShareAlike 4.0 International Licensed | Copyright © 2023-present sting
+footer: Attribution-ShareAlike 4.0 International Licensed | Copyright © 2023-present sting 
 ---
