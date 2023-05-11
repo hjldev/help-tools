@@ -58,7 +58,7 @@ jobs:
       - name: Build Gitee Pages
         uses: yanglbme/gitee-pages-action@main
         with:
-          gitee-username: sting
+          gitee-username: a2437463@126.com
           gitee-password: ${{ secrets.GITEE_PASSWORD }}
-          gitee-repo: hjldev/help-tools
+          gitee-repo: fastabler/help-tools
           branch: gh-pages
