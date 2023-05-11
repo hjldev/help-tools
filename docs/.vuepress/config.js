@@ -11,7 +11,7 @@ module.exports = {
       },
     ],
   ],
-  base: "/",
+  base: "/help-tools/",
   themeConfig: {
     repo: "help-tools",
     logo: "https://avatars.githubusercontent.com/u/43716716?s=200&v=4",
